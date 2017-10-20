@@ -18,10 +18,11 @@ List of content
 # Applications
 :octocat: are open source
 
-* [Oficial Examples](https://github.com/maidsafe/safe_examples)
+* :octocat: [Oficial Examples](https://github.com/maidsafe/safe_examples)
 * [List of Alpha-2 apps](https://safenetforum.org/t/alpha-2-community-websites-apps-safe-messaging-ids) A forum post where users share existing apps for the Alpha-2 network
-* [mind2chat](https://github.com/Mindphreaker/mind2chat) Chat app livigin at `safe://mind2chat`
-* [Chaty](https://github.com/josephm1/Chaty)
+* :octocat: [mind2chat](https://github.com/Mindphreaker/mind2chat) Chat app livigin at `safe://mind2chat`
+* :octocat: [Chaty](https://github.com/josephm1/Chaty)
+* :octocat: [Wallet](https://github.com/moinhodigital/safewallet)
 
 # JavaScript Libraries
 * [websafe](https://github.com/MoinhoDigital/websafe) A wrapper with common patterns for building applications with the web API
