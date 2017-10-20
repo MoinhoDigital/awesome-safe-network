@@ -20,9 +20,13 @@ List of content
 :octocat: are open source
 
 * :octocat: [Oficial Examples](https://github.com/maidsafe/safe_examples)
-* [List of Alpha-2 apps](https://safenetforum.org/t/alpha-2-community-websites-apps-safe-messaging-ids) A forum post where users share existing apps for the Alpha-2 network
-* :octocat: [mind2chat](https://github.com/Mindphreaker/mind2chat) Chat app livigin at `safe://mind2chat`
-* :octocat: [Chaty](https://github.com/josephm1/Chaty)
+* [List of Alpha-2 apps](https://safenetforum.org/t/alpha-2-community-websites-apps-safe-messaging-ids)A forum post where users share existing apps for the Alpha-2 network.
+* :octocat: [mind2chat](https://github.com/Mindphreaker/mind2chat) Chat app livigin at `safe://mind2chat`.
+* :octocat: [Chaty](https://github.com/josephm1/Chaty)A messaging website built on the SAFE Network with the ability to publish messages and chat in realtime in-browser. 
+* :octocat: [Demoy](https://github.com/josephm1/Demoy)A website built on the Safe Network using some of the Mutable Data functions from the safe DOM API.
+* :octocat: [Listy](https://github.com/josephm1/Listy)A public web directory for websites built on the SAFE Network with the ability for users to submit websites.
+* :octocat: [Feedy](https://github.com/josephm1/Feedy) The feedback website for all my SAFE websites. 
+* :octocat: [Vidy](https://github.com/josephm1/Vidy)A public video directory for websites built on the SAFE Network with the ability for users to submit videos.
 * :octocat: [Wallet](https://github.com/moinhodigital/safewallet)
 
 # JavaScript Libraries
