@@ -8,6 +8,7 @@ List of content
 - [APIs](#apis)
 - [Applications](#applications)
 - [JavaScript Libraries](#javascript-libraries)
+- [Boilerplates](#boilerplates)
 - [Read](#read)
 
 # APIs
@@ -15,12 +16,18 @@ List of content
 * [NodeJS API](http://docs.maidsafe.net/safe_app_nodejs)
 
 # Applications
+:octocat: are open source
+
 * [Oficial Examples](https://github.com/maidsafe/safe_examples)
 * [List of Alpha-2 apps](https://safenetforum.org/t/alpha-2-community-websites-apps-safe-messaging-ids) A forum post where users share existing apps for the Alpha-2 network
 * [mind2chat](https://github.com/Mindphreaker/mind2chat) Chat app livigin at `safe://mind2chat`
+* [Chaty](https://github.com/josephm1/Chaty)
 
 # JavaScript Libraries
 * [websafe](https://github.com/MoinhoDigital/websafe) A wrapper with common patterns for building applications with the web API
+
+# Boilerplates
+* [safe_web_starter_pack](https://github.com/hunterlester/safe_web_starter_pack) A simple starting point built with plain Javascript
 
 # Read
 * [Introduction to the SAFE Network](https://medium.com/@luandro/introduction-to-the-safe-network-33d8641b2dee) A series of posts explaning what the SAFE project is and how to get stared developing
