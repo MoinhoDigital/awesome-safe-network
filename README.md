@@ -17,17 +17,18 @@ List of content
 * [NodeJS API](http://docs.maidsafe.net/safe_app_nodejs)
 
 # Applications
-:octocat: are open source
+:octocat: open-source
 
-* :octocat: [Oficial Examples](https://github.com/maidsafe/safe_examples)
-* [List of Alpha-2 apps](https://safenetforum.org/t/alpha-2-community-websites-apps-safe-messaging-ids)A forum post where users share existing apps for the Alpha-2 network.
+* [List of Alpha-2 apps](https://safenetforum.org/t/alpha-2-community-websites-apps-safe-messaging-ids) A forum post where users share existing apps for the Alpha-2 network.
+* :octocat: [Joseph’s Safe Websites Project](https://safenetforum.org/t/josephs-safe-websites-project/15244) A list of websites for the SAFE Network.
+* :octocat: [Oficial Examples](https://github.com/maidsafe/safe_examples) Oficial examples from Maid's dev team.
 * :octocat: [mind2chat](https://github.com/Mindphreaker/mind2chat) Chat app livigin at `safe://mind2chat`.
 * :octocat: [Chaty](https://github.com/josephm1/Chaty)A messaging website built on the SAFE Network with the ability to publish messages and chat in realtime in-browser. 
-* :octocat: [Demoy](https://github.com/josephm1/Demoy)A website built on the Safe Network using some of the Mutable Data functions from the safe DOM API.
-* :octocat: [Listy](https://github.com/josephm1/Listy)A public web directory for websites built on the SAFE Network with the ability for users to submit websites.
+* :octocat: [Demoy](https://github.com/josephm1/Demoy) A website built on the Safe Network using some of the Mutable Data functions from the safe DOM API.
+* :octocat: [Listy](https://github.com/josephm1/Listy) A public web directory for websites built on the SAFE Network with the ability for users to submit websites.
 * :octocat: [Feedy](https://github.com/josephm1/Feedy) The feedback website for all my SAFE websites. 
-* :octocat: [Vidy](https://github.com/josephm1/Vidy)A public video directory for websites built on the SAFE Network with the ability for users to submit videos.
-* :octocat: [Wallet](https://github.com/moinhodigital/safewallet)
+* :octocat: [Vidy](https://github.com/josephm1/Vidy) A public video directory for websites built on the SAFE Network with the ability for users to submit videos.
+* :octocat: [Wallet](https://github.com/moinhodigital/safewallet) A wallet to create and exchange tokens
 
 # JavaScript Libraries
 * [websafe](https://github.com/MoinhoDigital/websafe) A wrapper with common patterns for building applications with the web API
