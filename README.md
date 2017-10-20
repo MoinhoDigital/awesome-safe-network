@@ -10,6 +10,7 @@ List of content
 - [JavaScript Libraries](#javascript-libraries)
 - [Boilerplates](#boilerplates)
 - [Learn](#learn)
+- [Podcasts](#podcasts)
 
 # APIs
 * [Web API](http://docs.maidsafe.net/beaker-plugin-safe-app)
@@ -38,6 +39,9 @@ List of content
 
 # Podcasts
 * [SAFE Crossroads podcasts](https://safecrossroads.net/)
+
+
+
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
