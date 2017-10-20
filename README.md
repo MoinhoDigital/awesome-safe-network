@@ -9,7 +9,7 @@ List of content
 - [Applications](#applications)
 - [JavaScript Libraries](#javascript-libraries)
 - [Boilerplates](#boilerplates)
-- [Read](#read)
+- [Learn](#learn)
 
 # APIs
 * [Web API](http://docs.maidsafe.net/beaker-plugin-safe-app)
@@ -30,7 +30,7 @@ List of content
 # Boilerplates
 * [safe_web_starter_pack](https://github.com/hunterlester/safe_web_starter_pack) A simple starting point built with plain Javascript
 
-# Read
+# Learn
 * [Safe API Overview](https://josephm1.github.io/Safe-API-Overview/) Awesome guide on MaidSafe's API
 * [Introduction to the SAFE Network](https://medium.com/@luandro/introduction-to-the-safe-network-33d8641b2dee) A series of posts explaning what the SAFE project is and how to get stared developing
 * [Metaquestions](https://metaquestions.me/) The blog of Maid creator David Irvine, who is always posting about technology and innerworkings of the SAFE Network
